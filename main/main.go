@@ -24,4 +24,7 @@ func main() {
 	message3 := mtbf.Hello("bobo")
 	fmt.Println(message3)
 
+	message4 := trlbal.RunScript("firefox")
+	fmt.Println(message4)
+
 }
