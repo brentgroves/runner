@@ -3,7 +3,6 @@ module github.com/brentgroves/runner
 go 1.20
 
 require (
-	github.com/brentgroves/greetings v0.1.1
 	rsc.io/quote v1.5.2
 )
 
