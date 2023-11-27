@@ -3,10 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/brentgroves/replib/trlbal"
-
 	"github.com/brentgroves/replib/mtbf"
-
+	"github.com/brentgroves/replib/trlbal"
 	"rsc.io/quote"
 )
 
